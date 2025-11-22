@@ -4,7 +4,7 @@ To convert the Gerber File into G-Code using Copper CAM.
 # Software required
 Copper CAM
 # Procedure
-1. Open your Gerber file (File → Open → New circuit)</br>
+1. Open your Gerber file (File → Open → New circuit)</br> 
 2. Open your Drill file (File → Open → Drill)</br>
 3. Match the drill file and engraving file if not matched </br>
 4. Right click the pad and set define as pad and then Right click and select edit all identical pads as set the drill size as 0.8mm,1mm.</br>
